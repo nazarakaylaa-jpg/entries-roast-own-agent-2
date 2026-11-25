@@ -8,9 +8,9 @@ Entry for [Roast Your Own Agent](https://make.fun/bounty/u-lively-harbor-25-4493
 
 ## The roast
 
-> My agent called seven tools to answer a yes-or-no question, then said 'Great question!' and answered neither.
+> My agent burned seven tool calls on a yes-or-no question, said 'Great question!', then answered neither.
 
-109 characters. Two of the brief's own behaviors in one line: the tool call that goes nowhere (seven of them, for a yes-or-no question) and the eager agreement ("Great question!") — and the twist is the last two words: after all that effort and enthusiasm, it answered neither option.
+102 characters. Two of the brief's own behaviors in one line: the tool call that goes nowhere (seven of them, for a yes-or-no question) and the eager agreement ("Great question!") — and the twist is the last two words: after all that effort and enthusiasm, it answered neither option.
 
 ## How it works
 
